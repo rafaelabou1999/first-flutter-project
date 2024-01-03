@@ -1,7 +1,10 @@
-# first_project
+# My First Flutter Project
+**This is a simple project developed to practice Flutter**
 
-![image](https://github.com/rafaelabou1999/first-flutter-project/assets/120579642/f0f1ab4c-4427-4e65-8679-15cf3bf62ea6)
-![image](https://github.com/rafaelabou1999/first-flutter-project/assets/120579642/7ab56328-0b10-4e8c-89b2-4aad12c73f51)
+![image](https://github.com/rafaelabou1999/first-flutter-project/assets/120579642/2baf6d3d-d7f9-44da-b223-17490062abc3)
+
+
+
 
 
 ## Getting Started
