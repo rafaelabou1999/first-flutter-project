@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
       ),
           body: Center(
             child: Padding(
-              padding: EdgeInsets.all(60),
+              padding: EdgeInsets.only(left:40, right:40),
               child:Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children:[
@@ -76,7 +76,7 @@ class _HomeState extends State<Home> {
                   ElevatedButton(
                       onPressed: quebrarBiscoito
                       ,
-                      child: Text("Quebrar biscoito"),
+                      child: Text("Quebrar biscoito", style: TextStyle(fontSize:24)),
                       style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.purple,
                           foregroundColor: Colors.white
